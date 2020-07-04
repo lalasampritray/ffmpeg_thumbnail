@@ -1,7 +1,9 @@
 # ffmpeg_thumbnail
- This is a python script for using ffmpeg to create screenshots from a collection of videos at one specified time and using them as thumbnail in the same video.
+ This is a python script for using ffmpeg to create screenshots from a collection of videos at one specified time(in the videos)(variable *time*) for all the videos in a source folder(variable *path*) and using them as thumbnail in the same video sent to another location(variable *destination*).
  ------------
  
+All of these variables can be replaced in the main() function.
+
 To install ffmpeg refer https://www.wikihow.com/Install-FFmpeg-on-Windows. Sometimes after adding path a restart is needed and sometimes a "\" is needed at the end that is in the path variable change it from c:\FFmpeg\bin to c:\FFmpeg\bin\.
 
 
