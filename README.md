@@ -9,15 +9,15 @@ To install ffmpeg refer https://www.wikihow.com/Install-FFmpeg-on-Windows. Somet
 
 This is not yet complete but works ok, some of the work remaining off the top of my head are:
 
-1 #TODO create a try except block for if the filename contains "."
+ #TODO Create a try except block for if the filename contains "."
 
-2 #TODO auto rename the files if they have "." in them to change them to "-"
+ #TODO Auto rename the files if they have "." in them to change them to "-".
 
-3 #TODO auto create a folder in the home directory to store the newly thumbnailed videos
+ #TODO Auto create a folder in the home directory to store the newly thumbnailed videos.
 
-4 #TODO split the engine function to two separate functions so that this script can be used as a module to either get thumbnails from video or thumbnail videos
+ #TODO Split the engine function to two separate functions so that this script can be used as a module to either get thumbnails from video or thumbnail videos.
 
-5 #TODO add a control for number of files so that if only the file is given as input then only one file gets thumbnailed.
+ #TODO Add a control for number of files so that if only the file is given as input then only one file gets thumbnailed.
 
-6 #TODO ADD GUI too advanced for me now.
+ #TODO Add GUI too advanced for me now.
 
