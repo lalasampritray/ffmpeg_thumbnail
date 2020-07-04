@@ -4,7 +4,7 @@
  
 All of these variables can be replaced in the main() function.
 
-To install ffmpeg refer https://www.wikihow.com/Install-FFmpeg-on-Windows. Sometimes after adding path a restart is needed and sometimes a "\" is needed at the end that is in the path variable change it from c:\FFmpeg\bin to c:\FFmpeg\bin\.
+To install ffmpeg refer https://www.wikihow.com/Install-FFmpeg-on-Windows. Sometimes after adding path a restart is needed and sometimes a "\\" is needed at the end that is in the path variable change it from c:\FFmpeg\bin to c:\FFmpeg\bin\.
 
 
 This is not yet complete but works ok, some of the work remaining off the top of my head are:
