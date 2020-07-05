@@ -21,3 +21,9 @@ This is not yet complete but works ok, some of the work remaining off the top of
 
  #TODO Add GUI too advanced for me now.
 
+Sources
+"""
+ https://stackoverflow.com/questions/42438380/ffmpeg-in-python-script
+ https://trac.ffmpeg.org/wiki/Create%20a%20thumbnail%20image%20every%20X%20seconds%20of%20the%20video
+ https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
+"""
