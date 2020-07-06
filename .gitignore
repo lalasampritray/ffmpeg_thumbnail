@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#files
+trial_and_error.py
+checkpy.py
+
